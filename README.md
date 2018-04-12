@@ -10,4 +10,6 @@ U njoj je implementirano i demonstrirano nekoliko metoda za nalaženje (prvenstv
 
 Trudio sam se pisati po PEP8 standardu.
 
-Napomena: matplotlib ignorira zorder kod crtanja 3D grafova.
+Napomene: 
+- matplotlib ignorira zorder kod crtanja 3D grafova.
+- Izvršavanje bilježnice traje oko dvije minute, od toga najduže traje izvršavanje primjera za gradijentnu metodu.
